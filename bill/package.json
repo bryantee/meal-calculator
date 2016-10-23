@@ -1,0 +1,14 @@
+{
+  "name": "bill",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Swagerty",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.16.0"
+  }
+}
