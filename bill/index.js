@@ -28,6 +28,7 @@ class Bill {
       console.log(`Total: $${dinner.calculateTotal()}`);
       console.log(`Tax: $${dinner.calculateTax()}`);
       console.log(`Tip: $${dinner.calculateTip()}`);
+      console.log('\n');
     });
   }
 }
