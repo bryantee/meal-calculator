@@ -1,7 +1,7 @@
 'use strict';
 
-import Bill from "./bill";
 import dinners, {bryan, jesse, thomas} from "./mockData";
+import Bill from "bill";
 
 const theBill = new Bill (dinners);
 
